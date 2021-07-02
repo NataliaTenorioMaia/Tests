@@ -1,6 +1,5 @@
-<img src="images/head.jpeg" alt="centered image" width="90%">
-
 <p align="center">
+  <img src="images/head.jpeg" alt="centered image" width="90%">
   <img src="images/app_visual.gif" width="75%">
 </p>
 
