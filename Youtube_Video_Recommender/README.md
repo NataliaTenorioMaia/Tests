@@ -6,8 +6,9 @@
 
 # 1. Introduction
 
-<p style="text-align: justify">
-In this project, I built a <a href="https://stormy-lake-83008.herokuapp.com">web application</a> which recommends to me Youtube videos that suit my personal taste on the topics of artificial intelligence, machine learning and deep learning. The recommendations are displayed in descending order of appeal, and the videos can be accessed by clicking on the titles. The final product, therefore, is a data science solution to the problem of wasting time on Youtube searching for videos that are appealing to me.</p>
+<p style="text-align: justify"> In this project, I built a <a href="https://stormy-lake-83008.herokuapp.com">web application</a> which recommends to me Youtube videos that suit my personal taste on the topics of artificial intelligence, machine learning and deep learning. The recommendations are displayed in descending order of appeal, and the videos can be accessed by clicking on the titles. The final product, therefore, is a data science solution to the problem of wasting time on Youtube searching for videos that are appealing to me.</p>
+
+In this project, I built a <a href="https://stormy-lake-83008.herokuapp.com">web application</a> which recommends to me Youtube videos that suit my personal taste on the topics of artificial intelligence, machine learning and deep learning. The recommendations are displayed in descending order of appeal, and the videos can be accessed by clicking on the titles. The final product, therefore, is a data science solution to the problem of wasting time on Youtube searching for videos that are appealing to me.
 
 <p style="text-align: justify">
 The main motivation to work on this solo project was to create a complete data science solution, starting from the data extraction and preparation, followed by the construction of the machine learning algorithm, and finalizing by deploying the model in production. Building this project endowed me with the skills needed to independently work on all the different stages in the construction of a complete data science solution.</p>
