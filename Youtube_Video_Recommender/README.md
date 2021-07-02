@@ -1,6 +1,6 @@
-<img src="images/head.jpeg" width="90%">
+<img src="images/head.jpeg" alt="centered image" width="90%">
 
-<img src="images/app_visual.gif" alt="funny GIF" width="75%">
+<img src="images/app_visual.gif" alt="centered image" width="75%">
 
 # 1. Introduction
 
