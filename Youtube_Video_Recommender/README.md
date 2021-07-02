@@ -6,7 +6,7 @@
 
 # 1. Introduction
 
-<p style="text-align: justify"> In this project, I built a <a href="https://stormy-lake-83008.herokuapp.com">web application</a> which recommends to me Youtube videos that suit my personal taste on the topics of artificial intelligence, machine learning and deep learning. The recommendations are displayed in descending order of appeal, and the videos can be accessed by clicking on the titles. The final product, therefore, is a data science solution to the problem of wasting time on Youtube searching for videos that are appealing to me.</p>
+<div style="text-align: justify"> In this project, I built a <a href="https://stormy-lake-83008.herokuapp.com">web application</a> which recommends to me Youtube videos that suit my personal taste on the topics of artificial intelligence, machine learning and deep learning. The recommendations are displayed in descending order of appeal, and the videos can be accessed by clicking on the titles. The final product, therefore, is a data science solution to the problem of wasting time on Youtube searching for videos that are appealing to me.</p>
 
 In this project, I built a <a href="https://stormy-lake-83008.herokuapp.com">web application</a> which recommends to me Youtube videos that suit my personal taste on the topics of artificial intelligence, machine learning and deep learning. The recommendations are displayed in descending order of appeal, and the videos can be accessed by clicking on the titles. The final product, therefore, is a data science solution to the problem of wasting time on Youtube searching for videos that are appealing to me.
 
