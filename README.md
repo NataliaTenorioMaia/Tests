@@ -8,5 +8,6 @@ $$
 
 hauieae  iauehiaeuheaeoauea 
 haeuiheaiuaehiaeuheaiuhaeiuaehiuaehiueaheaiuhaeiueh
-
+<p align="center">
 p = 0.1p<sub>rf</sub> + 0.9p<sub>lgbm</sub>.
+</p>
