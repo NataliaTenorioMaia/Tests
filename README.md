@@ -1,2 +1,1 @@
-# Portfolio
-Here you will find some of my selected projects.
+This folder exists only for tests purposes.
