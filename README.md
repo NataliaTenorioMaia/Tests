@@ -3,7 +3,7 @@ This folder exists only for tests purposes.
 
 #### About me
 
-<img align="right" src="nat.jpg" width="40%"/>
+<img align="right" src="nat.jpg" width="45%"/>
 
 <p align="justify">
 I am a Doctor on Physics who is currently in transition from Academia to Industry. I worked as a postdoctoral researcher at the University of Pittsburgh from 2017-2020 performing research on Gravitational Waves. I have been exploring the theoretical and practical aspects of Machine Learning in the past year. Currently, I am looking for jobs in Industry in the fields of Artificial Intelligence, Data Science and Physics.</p>
