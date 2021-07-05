@@ -6,4 +6,7 @@ $$
 p = 0.1p_{rf} + 0.9p_{lgbm}.
 $$
 
-p = 0.1p<sub>rf</sub> + 0.9p<sub>lgbm</sub>
+hauieae  iauehiaeuheaeoauea 
+haeuiheaiuaehiaeuheaiuhaeiuaehiuaehiueaheaiuhaeiueh
+
+p = 0.1p<sub>rf</sub> + 0.9p<sub>lgbm</sub>.
