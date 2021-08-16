@@ -5,5 +5,5 @@ This folder exists only for tests purposes.
 </p>
 
 <p align="center" ><strong>
-  <font size="44">Analysis of the historical deforestation and socioeconomic data of the Brazilian Amazont</font></strong>
+  <font size="8">Analysis of the historical deforestation and socioeconomic data of the Brazilian Amazont</font></strong>
 </p>
