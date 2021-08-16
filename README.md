@@ -1,6 +1,6 @@
 This folder exists only for tests purposes.
 
-<p style="color:blue;font-size:18px;" > 
+<p align="center" style="color:blue;font-size:18px;" > 
   This is demo text
 </p>
 
