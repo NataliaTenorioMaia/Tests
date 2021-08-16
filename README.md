@@ -1,5 +1,5 @@
 This folder exists only for tests purposes.
-# Analysis of the Brazilian Amazon historical deforestation and socioeconomic data
+# Brazilian Amazon historical deforestation and socioeconomic data analysis
 
 <html>
 <body>
